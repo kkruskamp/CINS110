@@ -1,0 +1,18 @@
+p {
+  font-family: monospace;
+  font-size: 18px;
+  background-color: yellow;
+  color: purple;
+}
+
+div {
+  font-size: 18px;
+}
+
+body {
+  background-image: url(http://kurld.com/images/wallpapers/dark-forest/dark-forest-10.jpg);
+}
+
+.swamp {
+  background-image: url(https://adhdelirious.files.wordpress.com/2016/02/img_2190.jpg);
+}
